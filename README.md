@@ -6,7 +6,7 @@
 
 Game Guess the Numbers ..
 
-responsive 
+<p>responsive<p> 
 
 ## Getting Started
 
