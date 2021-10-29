@@ -13,9 +13,9 @@ ios ✔️
 android ✔️
 
 ## Screenshot
-![Screenshot_2021-10-29-19-20-45-701_com example gn](https://user-images.githubusercontent.com/75315732/139465630-bf7ea7b0-d8cb-44f1-be09-6c5851edd4b1.jpg)
-![Screenshot_2021-10-29-19-20-57-136_com example gn](https://user-images.githubusercontent.com/75315732/139465701-ca7de143-915a-46c7-bc68-6dccf5d0f61e.jpg)
-![Screenshot_2021-10-29-19-21-02-688_com example gn](https://user-images.githubusercontent.com/75315732/139465715-ee665e11-7d75-4f12-9f96-869d11148332.jpg)
+![Screenshot](https://user-images.githubusercontent.com/75315732/139465630-bf7ea7b0-d8cb-44f1-be09-6c5851edd4b1.jpg)
+![Screenshot_](https://user-images.githubusercontent.com/75315732/139465701-ca7de143-915a-46c7-bc68-6dccf5d0f61e.jpg)
+![Screenshot_](https://user-images.githubusercontent.com/75315732/139465715-ee665e11-7d75-4f12-9f96-869d11148332.jpg)
 
 
 
