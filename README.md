@@ -36,3 +36,11 @@ Clone the repository and run the following commands:
 flutter pub get
 flutter run
 ```
+
+## Preview
+
+
+https://user-images.githubusercontent.com/75315732/139464404-18b4b90e-42af-45fb-98e8-b12ca65285af.mp4
+
+
+
