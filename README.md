@@ -6,7 +6,13 @@
 
 Game Guess the Numbers ..
 
-## responsive
+## Platform
+
+ios ✔️
+
+android ✔️
+
+responsive ✔️
 
 ## Getting Started
 
