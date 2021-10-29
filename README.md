@@ -12,7 +12,7 @@ ios ✔️
 
 android ✔️
 
-responsive ✔️
+# responsive ✔️
 
 ## Getting Started
 
