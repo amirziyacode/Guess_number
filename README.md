@@ -13,7 +13,7 @@ ios ✔️
 android ✔️
 
 ## Screenshot
-![Game](https://s4.uupload.ir/files/screenshot_2021-10-29-19-20-45-701_com.example.gn_9fcv.jpg)
+![Game](https://s4.uupload.ir/files/screen_v23a.jpg)
 
 
 
