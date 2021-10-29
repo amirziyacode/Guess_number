@@ -14,6 +14,8 @@ android ✔️
 
 # responsive ✔️
 
+Can be used on all your phones
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
