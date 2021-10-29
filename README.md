@@ -1,6 +1,11 @@
+![Image](image/fe.png)
+
+
 # Guess number 
 
-A new Flutter project.
+Game Guess the Numbers ..
+
+responsive 
 
 ## Getting Started
 
@@ -14,3 +19,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
