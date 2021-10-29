@@ -17,9 +17,9 @@ android ✔️
 
 
 
-# responsive ✔️
+# responsive 
 
-Can be used on all your phones
+Can be used on all your phones✔️
 
 ## Getting Started
 
