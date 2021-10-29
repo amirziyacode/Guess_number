@@ -4,7 +4,10 @@
 
 # Guess number 
 
-Game Guess the Numbers ..
+Game Guess the Numbers 
+This brain teaser is designed in three levels. 
+You can guess from one to 1000 pieces. 
+This game is very simple and easy, so I hope you like it, thank you 😊
 
 ## Platform
 
