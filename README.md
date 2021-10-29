@@ -13,7 +13,7 @@ ios ✔️
 android ✔️
 
 ## Screenshot
-![Screenshot](https://user-images.githubusercontent.com/75315732/139465630-bf7ea7b0-d8cb-44f1-be09-6c5851edd4b1.jpg)
+<img src="https://user-images.githubusercontent.com/75315732/139465630-bf7ea7b0-d8cb-44f1-be09-6c5851edd4b1.jpg" width= 50 , height=50/>
 ![Screenshot_](https://user-images.githubusercontent.com/75315732/139465701-ca7de143-915a-46c7-bc68-6dccf5d0f61e.jpg)
 ![Screenshot_](https://user-images.githubusercontent.com/75315732/139465715-ee665e11-7d75-4f12-9f96-869d11148332.jpg)
 
