@@ -40,7 +40,7 @@ class _EsplayState extends State<Esplay> {
               borderRadius: BorderRadius.circular(15.0.r),
               boxShadow: const [
                 BoxShadow(
-                  color: Color(0xFF00FF30),
+                  color: Color(0xFF4F2FF8),
                   blurRadius: 8.0,
                   offset: Offset(0, 1),
                 )
@@ -93,10 +93,10 @@ class _EsplayState extends State<Esplay> {
                 height: 185.0,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(100.0),
-                    color: const Color(0xFF00FF30).withAlpha(20),
+                    color: const Color(0xFF4F2FF8).withAlpha(20),
                     boxShadow: [
                       BoxShadow(
-                        color: const Color(0xFF00FF32).withOpacity(0.2),
+                        color: const Color(0xFF4F2FF8).withOpacity(0.2),
                         blurRadius: 50.0,
                         offset: const Offset(0, 1),
                       )
@@ -141,10 +141,10 @@ class _EsplayState extends State<Esplay> {
                     height: 55.0.h,
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15.0.r),
-                        color: const Color(0xFF117A25),
+                        color: const Color(0xFF3119AC),
                         boxShadow: [
                           BoxShadow(
-                            color: const Color(0xFF00FF30),
+                            color: const Color(0xFF4F2FF8),
                             blurRadius: 8.0.r,
                             offset: const Offset(0, 1),
                           )
@@ -171,10 +171,10 @@ class _EsplayState extends State<Esplay> {
                     margin: EdgeInsets.only(bottom: 10.h,left: 23.0.w),
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15.0.r),
-                        color: const Color(0xFF117A25),
+                        color: const Color(0xFF3119AC),
                         boxShadow: const[
                           BoxShadow(
-                            color: Color(0xFF00FF30),
+                            color: Color(0xFF4F2FF8),
                             blurRadius: 8.0,
                             offset: Offset(0, 1),
                           )
@@ -197,7 +197,7 @@ class _EsplayState extends State<Esplay> {
                         color: const Color(0xFF181920),
                         boxShadow: const [
                           BoxShadow(
-                            color: Color(0xFF00FF30),
+                            color: Color(0xFF4F2FF8),
                             blurRadius: 8.0,
                             offset: Offset(0, 1),
                           )

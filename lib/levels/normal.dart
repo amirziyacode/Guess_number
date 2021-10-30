@@ -41,7 +41,7 @@ class _Normalplay extends State<Normalplay> {
               borderRadius: BorderRadius.circular(15.0.r),
               boxShadow: const [
                 BoxShadow(
-                  color: Color(0xFF0091EA),
+                  color: Color(0xFF4F2FF8),
                   blurRadius: 8.0,
                   offset: Offset(0, 1),
                 )
@@ -94,10 +94,10 @@ class _Normalplay extends State<Normalplay> {
                     height: 185.0,
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(100.0),
-                        color: const Color(0xFF0091EA).withAlpha(20),
+                        color: const Color(0xFF4F2FF8).withAlpha(20),
                         boxShadow: [
                           BoxShadow(
-                            color: const Color(0xFF0091EA).withOpacity(0.2),
+                            color: const Color(0xFF4F2FF8).withOpacity(0.2),
                             blurRadius: 50.0,
                             offset: const Offset(0, 1),
                           )
@@ -142,10 +142,10 @@ class _Normalplay extends State<Normalplay> {
                         height: 55.0.h,
                         decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(15.0.r),
-                            color: const Color(0xFF3352EF),
+                            color: const Color(0xFF3119AC),
                             boxShadow: [
                               BoxShadow(
-                                color: const Color(0xFF0091EA),
+                                color: const Color(0xFF4F2FF8),
                                 blurRadius: 8.0.r,
                                 offset: const Offset(0, 1),
                               )
@@ -172,10 +172,10 @@ class _Normalplay extends State<Normalplay> {
                         margin: EdgeInsets.only(bottom: 10.h,left: 23.0.w),
                         decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(15.0.r),
-                            color: const Color(0xFF3352EF),
+                            color: const Color(0xFF3119AC),
                             boxShadow: const[
                               BoxShadow(
-                                color: Color(0xFF0091EA),
+                                color: Color(0xFF4F2FF8),
                                 blurRadius: 8.0,
                                 offset: Offset(0, 1),
                               )
@@ -198,7 +198,7 @@ class _Normalplay extends State<Normalplay> {
                             color: const Color(0xFF181920),
                             boxShadow: const [
                               BoxShadow(
-                                color: Color(0xFF0091EA),
+                                color: Color(0xFF4F2FF8),
                                 blurRadius: 8.0,
                                 offset: Offset(0, 1),
                               )
