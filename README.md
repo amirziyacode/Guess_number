@@ -19,7 +19,7 @@ ios ✔️
 android ✔️
 
 ## Screenshot
-![Game](https://s4.uupload.ir/files/screen_v23a.jpg)
+![Game](https://s4.uupload.ir/files/first_name_6cw1.jpg)
 
 
 
